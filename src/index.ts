@@ -1,2 +1,4 @@
-window.alert('Hello typescript');
+const message = require('./message');
+
+window.alert(message);
 
